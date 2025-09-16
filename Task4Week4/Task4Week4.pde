@@ -15,7 +15,7 @@ void setup() {
   //circles[0] = new Circle(200, 250);
 
 
-  //4.g Test the display() -method by calling it on the instance you created in step 4.e.
+  //4.g Test the display() -method by calling it on the instance you created inS step 4.e.
   //circles[0].display();
 
 
